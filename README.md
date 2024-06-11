@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zukubula
+- 👋 Hi there, I’m Zukubula
 - 👀 I’m interested in Rubik's cubes
 - 🌱 I’m currently learning Python
 - ⚡ Fun fact: I don't like fun facts
